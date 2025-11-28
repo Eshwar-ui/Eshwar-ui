@@ -2,6 +2,12 @@
 <!-- 🚀 APP LANDING PAGE STYLE README                          -->
 <!-- ========================================================= -->
 
+
+<p align="center">
+  <img src="mobile-mock.gif" width="400"/>
+</p>
+
+
 <!-- HERO SECTION WITH SVG GRADIENT TITLE -->
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Eshwar%20Chandra%20&width=900&height=200" />
