@@ -1,71 +1,124 @@
-# SRIRAM ESHWAR CHANDRA
- 
-![Profile Views](https://komarev.com/ghpvc/?username=srirameshwarchandra&label=Profile%20views&color=0e75b6&style=flat) 
+<!-- ========================================================= -->
+<!-- 🚀 APP LANDING PAGE STYLE README                          -->
+<!-- ========================================================= -->
 
-![Commit Activity](https://img.shields.io/github/commit-activity/m/srirameshwarchandra?label=commit%20activity&style=flat)
 
-![Followers](https://img.shields.io/github/followers/srirameshwarchandra?label=Followers&style=flat)
- 
-## 🚀 Flutter Developer 
-
-**Mobile Developer | [cite_start]Cross-Platform Specialist** [cite: 2]
- 
----
- 
-### 🔭 NOW
-
-* [cite_start]**Currently at:** Quantum Works Private Limited, Hyderabad[cite: 13].
-* [cite_start]**Core Tasks:** Developing and maintaining cross-platform mobile applications using Flutter and Dart[cite: 15].
-* [cite_start]**Optimization:** Implementing responsive UI components and performing code reviews to maintain high quality[cite: 16, 19].
-* [cite_start]**Focus:** Integrating Firebase services including Authentication, Firestore, and Cloud Messaging[cite: 17].
- 
----
- 
-### 💼 BIO
-
-* [cite_start]🎓 **Education:** B.Tech from Bharat Institute of Engineering and Technology (Expected July 2025)[cite: 64, 65].
-* [cite_start]🛠️ **Interests:** Mobile architecture patterns, clean code principles, and production-ready app deployment[cite: 7, 9].
-* [cite_start]📫 **Reach me:** [srirameshwarchandra@gmail.com](mailto:srirameshwarchandra@gmail.com)[cite: 3].
-* [cite_start]🔗 **LinkedIn:** [srirameshwarchandra](https://linkedin.com/in/srirameshwarchandra)[cite: 5].
- 
----
- 
-### 🛠 SKILLS
- 
-**Languages & Frameworks**
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- 
-**Databases & Infrastructure**
-
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- 
----
- 
-### 📂 FEATURED PROJECT
-
-* [cite_start]**UI-nity:** Developed and published an educational mobile application on the Google Play Store with 1000+ downloads[cite: 29, 32, 33].
-* [cite_start]**Architecture:** Built a comprehensive library with 50+ categorized UI components using Provider for state management[cite: 34, 37].
-* [cite_start]**Integration:** Architected the backend using Supabase for authentication, content management, and real-time updates[cite: 36].
- 
----
- 
-### 📊 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=srirameshwarchandra&show_icons=true&theme=radical" alt="Sriram's GitHub stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srirameshwarchandra&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+<p align="center">
+  <img src="mobile-mock.gif" width="400"/>
 </p>
+
+
+<!-- HERO SECTION WITH SVG GRADIENT TITLE -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Eshwar%20Chandra%20&width=900&height=200" />
+</p>
+
+<h3 align="center">UI/UX Designer · Flutter Developer · AI Product Builder</h3>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/4a/ed/64/4aed64cec9894f522a7eafeddd73b5e7.gif" width="420"/>
+</p>
+
+<p align="center">
+  Bringing app-quality visuals and smooth interactions to everything I build.
+</p>
+
+---
+
+## 🚀 **What I Do (Landing Page Style Features)**
+
+### 🎨 Beautiful UI/UX
+- Modern visual systems  
+- Micro-interactions  
+- Motion-guided UX  
+- Design Systems & Components  
+
+---
+
+### 📱 Flutter Development
+- Production-ready apps  
+- Firebase backend  
+- Clean architecture  
+- Custom animations  
+
+---
+
+### 🤖 AI-Powered Products
+- OpenAI Integrations  
+- OCR (Google ML Kit)  
+- Smart automation flows  
+- Scalable cloud functions  
+
+---
+
+## 🌈 Featured Apps (Showcase Sections)
+
+### 🎧 **Modern Flutter Music Player**
+- Background playback  
+- Animated UI  
+- Firebase streaming  
+- Playlist & search system  
+
+---
+
+### 📦 **Smart Medicine Box**
+- OCR → AI NER pipeline  
+- Extract & classify medicine info  
+- Auto-expiry alerts  
+- Clean health assistant interface  
+
+---
+
+### 🛒 **Farmer–Customer Platform**
+- UPI-based ordering  
+- Real-time product flow  
+- Role-based UI  
+- Built fully in Flutter  
+
+---
+
+### 📚 **UI Helper App**
+- UI/UX learning modules  
+- Styled components  
+- AI design assistant  
+- Dynamic component rendering  
+
+---
+
+## 📊 **App Analytics Style GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshwar-ui&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwar-ui&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Eshwar-ui&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌐 **Socials**
+<p align="center">
+  <a href="https://www.behance.net/eshwarsriram">🎨 Behance</a> •  
+  <a href="https://dribbble.com/eshwar_chandra">🖌️ Dribbble</a> •  
+  <a href="https://www.linkedin.com/in/eshwar-chandra-sriram">💼 LinkedIn</a>
+</p>
+
+---
+
+## 🧭 **Design Philosophy**
+> “If it feels smooth, simple, and intentional—then it’s a great product.”
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/bc/03/97/bc0397bd897cb598951fbacfea3883c8.gif" width="380"/>
+</p>
+
+---
+
+## 🧩 Reusable App-Style UI Blocks
+
+### Feature Block  
+```md
+### ⭐ Feature Name
+Short description of what it does and why it matters.
