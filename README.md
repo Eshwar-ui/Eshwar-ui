@@ -229,7 +229,8 @@ UI/UX learning modules · Styled components · AI design assistant · Dynamic co
 <img src="https://streak-stats.demolab.com?user=Eshwar-ui&theme=dark&hide_border=true&background=0d1117&stroke=6C3BFF40&ring=A855F7&fire=EC4899&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" height="145"/>
 
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eshwar-ui&show_icons=true&theme=radical)
+![GitHub Stats]
+<img src="https://github-readme-stats.vercel.app/api?username=Eshwar-ui&show_icons=true&theme=radical"/>
 <br />
 
 ---
