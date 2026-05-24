@@ -229,8 +229,17 @@ UI/UX learning modules · Styled components · AI design assistant · Dynamic co
 <img src="https://streak-stats.demolab.com?user=Eshwar-ui&theme=dark&hide_border=true&background=0d1117&stroke=6C3BFF40&ring=A855F7&fire=EC4899&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" height="145"/>
 
 </div>
-![GitHub Stats]
-<img src="https://github-readme-stats.vercel.app/api?username=Eshwar-ui&show_icons=true&theme=radical"/>
+<h2>Contribution Snake</h2>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eshwar-ui/Eshwar-ui/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshwar-ui/Eshwar-ui/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Eshwar-ui/Eshwar-ui/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
 <br />
 
 ---
